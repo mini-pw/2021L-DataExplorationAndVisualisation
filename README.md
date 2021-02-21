@@ -1,2 +1,3 @@
-# 2021L-DataExplorationAndVisualisation
-Data Exploration and Visualisation - Data Science
+# Data Exploration and Visualisation
+## Data Science @ MiNI 2021 summer semester
+
